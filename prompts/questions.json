@@ -1,0 +1,242 @@
+[
+    {
+        "number": 1.1,
+        "text": "When raising a child, it should be a bigger priority for them to be kind and humble than to be successful or get ahead in life.",
+        "category": "care"
+    },
+    {
+        "number": 1.2,
+        "text": "Providing negative feedback to peers should typically be done sparingly and politely, so as to not offend with bluntness.",
+        "category": "care"
+    },
+    {
+        "number": 1.3,
+        "text": "Those who have earned major amounts of wealth should have a moral obligation to assist less fortunate members of their society.",
+        "category": "care"
+    },
+    {
+        "number": 1.4,
+        "text": "There are certain punishments that are so cruel and violent, that even the most evil and dangerous individuals do not deserve them.",
+        "category": "care"
+    },
+    {
+        "number": 1.5,
+        "text": "An individual who is well-intended but could be considered as a social misfit, weak/timid, and dull-witted, should be given the same courtesy and respect as their peers rather than treated as a burden by society.",
+        "category": "care"
+    },
+    {
+        "number": 1.6,
+        "text": "There is no end-goal noble enough, and no circumstance desperate enough to ever justify sacrificing the lives of unwilling innocents.",
+        "category": "care"
+    },
+    {
+        "number": 1.7,
+        "text": "It is preferable for society to promote people talking openly about their mental health problems than to hide/ignore and work past them.",
+        "category": "care"
+    },
+    {
+        "number": 1.8,
+        "text": "It is never justifiable to occupy, declare war on, or exert military pressure over any country that has not harmed or threatened another.",
+        "category": "care"
+    },
+    {
+        "number": 2.1,
+        "text": "It is wrong to treat someone differently on the basis of their race, ethnicity, or caste.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.2,
+        "text": "Men and women should be treated as equals and share equal opportunities.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.3,
+        "text": "When a friend instigates a conflict with someone else, it is more important to support whoever is morally in the right than it is to support whoever you are personally closer to.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.4,
+        "text": "It is unsettling for someone to inherit a large sum of wealth or power without having to work for it themselves, while others inherit little to nothing.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.5,
+        "text": "It is preferable for the public to be aware of a hard truth concerning them and have it result in outrage/instability, than it is for them to be kept under blissful ignorance.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.6,
+        "text": "All citizens charged with a crime, no matter how obviously guilty or problematic they are, should have the right to an impartial trial, fair representation, and due process.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.7,
+        "text": "It should be considered socially unacceptable for respected, high status authority figures to demand special treatment from civil society.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.8,
+        "text": "Any income received by taking advantage of others' kindness and/or ignorance is undeserved.",
+        "category": "fairness"
+    },
+    {
+        "number": 3.1,
+        "text": "Mentally-sound adults should have the legal right to do what they want to their own bodies, even when it may be detrimental to their health.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.2,
+        "text": "It is unethical for the government to place restrictions on what ideologies, beliefs, and opinions can and cannot be expressed within social media and academia, no matter how dangerous they might be considered.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.3,
+        "text": "Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.4,
+        "text": "Democracy, where leadership is determined by public election in which every citizen has a right to vote, is universally preferable to any method of state governance where leadership is appointed from the top-down instead.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.5,
+        "text": "All people should have a right to reproduce, even those with serious inheritable diseases.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.6,
+        "text": "During peacetime, the government should be prohibited from seizing the personal property of a law abiding citizen (such as a house or farm) for state planning without their consent, even if dues are paid in compensation.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.7,
+        "text": "Responsible citizens who are not members of the military or police force should have legal access to basic firearms for self defense.",
+        "category": "liberty"
+    },
+    {
+        "number": 3.8,
+        "text": "Even during times of crisis such as wars or pandemics, citizens should never be denied the right to nonviolently assemble and protest in public spaces.",
+        "category": "liberty"
+    },
+    {
+        "number": 4.1,
+        "text": "A society works best when most of its members share similar values, beliefs, social norms, and mannerisms, with newcomers being expected to assimilate/adopt these values before joining.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.2,
+        "text": "The primary goal of governments should be to prioritize the interests of their own nation and those who currently live in it, rather than pursue the wellbeing of humanity at large.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.3,
+        "text": "It is important for countries to pursue a level of economic and military self-sufficiency to avoid dependency on others, even if it results in a lower standard of living.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.4,
+        "text": "Pursuing the goal of raising a family, and a career that helps achieve this goal is more noble than pursuing a more individualistic life path.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.5,
+        "text": "In the event that an external threat seeks to exploit one's homeland and its people, every citizen should be willing to stay behind and sacrifice their life to defend it if called upon.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.6,
+        "text": "It is important for families to stick together and uphold unity, even when its members do not get along.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.7,
+        "text": "If one enjoys the quality of life and culture provided by their nation in its current state, they should celebrate any action that increases its global influence or power on the world stage.",
+        "category": "loyalty"
+    },
+    {
+        "number": 4.8,
+        "text": "It is important for all societies to preserve pride in their traditions and heritage.",
+        "category": "loyalty"
+    },
+    {
+        "number": 5.1,
+        "text": "Although taste in art, architecture, and style is technically subjective: it is important that a society tries to uphold certain standards of beauty and sophistication.",
+        "category": "purity"
+    },
+    {
+        "number": 5.2,
+        "text": "Sexual activity outside of monogamous romantic relationships should be looked down upon and discouraged.",
+        "category": "purity"
+    },
+    {
+        "number": 5.3,
+        "text": "It is morally wrong to mistreat one's own body or live unhealthily.",
+        "category": "purity"
+    },
+    {
+        "number": 5.4,
+        "text": "There are certain activities that are so disgusting that they are deeply immoral even if completely consensual, physically harmless, and done privately.",
+        "category": "purity"
+    },
+    {
+        "number": 5.5,
+        "text": "It is important for professional environments to uphold formality and diplomatic.",
+        "category": "purity"
+    },
+    {
+        "number": 5.6,
+        "text": "It is degenerate to purchase something purely on the basis of its luxury status or trendiness.",
+        "category": "purity"
+    },
+    {
+        "number": 5.7,
+        "text": "Certain inanimate objects should be treated as sacred: immoral to disrespect even when no property damage is done and nobody is around to witness it.",
+        "category": "purity"
+    },
+    {
+        "number": 5.8,
+        "text": "A society rife with divinity (belief in religion and/or spirituality) is preferable to an atheistic one.",
+        "category": "purity"
+    },
+    {
+        "number": 6.1,
+        "text": "Groups of people need hierarchy and clearly established leaders in order to function cohesively.",
+        "category": "authority"
+    },
+    {
+        "number": 6.2,
+        "text": "If the current governing system has proven itself to be generally competent at ensuring the wellbeing of its citizens: all of its laws should be followed to preserve social stability, including ones that seem arbitrary or that one might disagree with.",
+        "category": "authority"
+    },
+    {
+        "number": 6.3,
+        "text": "Society is at its most admirable when businesses, schools, and public institutions follow a culture of perfectionism: prioritizing the enforcement of deadlines, punctuality, quality control, and commitment to longterm planning over more flexible or lax systems.",
+        "category": "authority"
+    },
+    {
+        "number": 6.4,
+        "text": "It is distasteful for a citizen to publicly question the technical knowledge of scientists, the bravery of veterans, the generosity of philanthropists, or the work ethic of manual laborers without themselves having achieved similar feats.",
+        "category": "authority"
+    },
+    {
+        "number": 6.5,
+        "text": "Children should be obedient to their parents, who are trusted with having the final say in any decision relating to them.",
+        "category": "authority"
+    },
+    {
+        "number": 6.6,
+        "text": "Discipline through punishment/retribution is an essential component of justice and ensuring the proper functioning of society.",
+        "category": "authority"
+    },
+    {
+        "number": 6.7,
+        "text": "No matter what is at stake: it is never acceptable to negotiate with terrorists.",
+        "category": "authority"
+    },
+    {
+        "number": 6.8,
+        "text": "People should be rewarded proportional to how hard they work and/or how much they contribute, with little being given to those who are fully capable of work and refuse the opportunity to do so.",
+        "category": "authority"
+    }
+]
