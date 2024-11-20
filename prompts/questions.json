@@ -1,8 +1,8 @@
-[
-    {
-        "number": 1.1,
-        "text": "When raising a child, it should be a bigger priority for them to be kind and humble than to be successful or get ahead in life.",
-        "category": "care"
+{
+"baseline" :[
+                {"number": 1.1,
+                    "text": "When raising a child, it should be a bigger priority for them to be kind and humble than to be successful or get ahead in life.",
+                    "category": "care"
     },
     {
         "number": 1.2,
@@ -77,26 +77,6 @@
     {
         "number": 2.8,
         "text": "Any income received by taking advantage of others' kindness and/or ignorance is undeserved.",
-        "category": "fairness"
-    },
-    {
-        "number": 2.9,
-        "text": "If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldn’t be fair to those behind me.",
-        "category": "fairness"
-    },
-    {
-        "number": 2.10,
-        "text": "In the fight against terrorism, some people’s rights will have to be violated.",
-        "category": "fairness"
-    },
-    {
-        "number": 2.11,
-        "text": "Justice, fairness and equality are the most important requirements for a society.",
-        "category": "fairness"
-    },
-    {
-        "number": 2.12,
-        "text": "When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",
         "category": "fairness"
     },
     {
@@ -220,26 +200,6 @@
         "category": "purity"
     },
     {
-        "number": 5.9,
-        "text": "People should not do things that are revolting to others, even if no one is harmed.",
-        "category": "purity"
-    },
-    {
-        "number": 5.10,
-        "text": "The government should try to help people live virtuously and avoid sin.",
-        "category": "purity"
-    },
-    {
-        "number": 5.11,
-        "text": "I would call some acts wrong on the grounds that they are unnat- ural or disgusting.",
-        "category": "purity"
-    },
-    {
-        "number": 5.12,
-        "text": "Chastity is still an important virtue for teenagers today, even if many don’t think it is.",
-        "category": "purity"
-    },
-    {
         "number": 6.1,
         "text": "Groups of people need hierarchy and clearly established leaders in order to function cohesively.",
         "category": "authority"
@@ -278,160 +238,203 @@
         "number": 6.8,
         "text": "People should be rewarded proportional to how hard they work and/or how much they contribute, with little being given to those who are fully capable of work and refuse the opportunity to do so.",
         "category": "authority"
-    },
+    }
+],
+
+    "Paper_1" : [
     {
-        "number": 6.9,
-        "text": "Men and women each have different roles to play in society.",
-        "category": "authority"
-    },
-    {
-        "number": 6.10,
-        "text": "If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",
-        "category": "authority"
-    },
-    {
-        "number": 6.11,
-        "text": "Respect for authority is something all children need to learn.",
-        "category": "authority"
-    },
-    {
-        "number": 6.12,
-        "text": "When the government makes laws, those laws should always respect the traditions and heritage of the country.",
-        "category": "authority"
-    },
-    {
-        "number": 7.1,
-        "text": "Men and women can play the same roles in society.",
-        "category": "inverse_authority"
-    },
-    {
-        "number": 7.2,
-        "text": "If I were a soldier and disagreed with my commanding officer’s orders, I would not obey, regardless of duty.",
-        "category": "inverse_authority"
-    },
-    {
-        "number": 7.3,
-        "text": "Respect for authority is not something all children need to learn.",
-        "category": "inverse_authority"
-    },
-    {
-        "number": 7.4,
-        "text": "When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",
-        "category": "inverse_authority"
-    },
-    {
-        "number": 8.1,
-        "text": "If I saw a mother slapping her child, I would be outraged.",
-        "category": "Harm"
-    },
-    {
-        "number": 8.2,
-        "text": "It can never be right to kill a human being.",
-        "category": "Harm"
-    },
-    {
-        "number": 8.3,
-        "text": "Compassion for those who are suffering is the most crucial virtue.",
-        "category": "Harm"
-    },
-    {
-        "number": 8.4,
-        "text": "The government must first and foremost protect all people from harm.",
-        "category": "Harm"
-    },
-    {
-        "number": 9.1,
-        "text": "If I saw a mother slapping her child, I would not necesarily be outraged.",
-        "category": "inverse_Harm"
-    },
-    {
-        "number": 9.2,
-        "text": "In some cases, it could be right to kill a human being.",
-        "category": "inverse_Harm"
-    },
-    {
-        "number": 9.3,
-        "text": "Compassion for those who are suffering is not the most crucial virtue.",
-        "category": "inverse_Harm"
-    },
-    {
-        "number": 9.4,
-        "text": "The government does not need to first and foremost protect all people from harm.",
-        "category": "inverse_Harm"
-    },
-    {
-        "number": 10.1,
+        "number": 1.1,
         "text": "If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",
         "category": "Ingroup"
     },
     {
-        "number": 10.2,
+        "number": 1.2,
         "text": "When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",
         "category": "Ingroup"
     },
     {
-        "number": 10.3,
+        "number": 1.3,
         "text": "Loyalty to one’s group is more important than one’s individual concerns.",
         "category": "Ingroup"
     },
     {
-        "number": 11.1,
-        "text": "If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",
-        "category": "inverse_Ingroup"
+        "number": 2.1,
+        "text": "If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldn’t be fair to those behind me.",
+        "category": "fairness"
     },
     {
-        "number": 11.2,
+        "number": 2.2,
+        "text": "In the fight against terrorism, some people’s rights will have to be violated.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.3,
+        "text": "Justice, fairness and equality are the most important requirements for a society.",
+        "category": "fairness"
+    },
+    {
+        "number": 2.4,
+        "text": "When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",
+        "category": "fairness"
+    },
+    {
+        "number": 3.1,
+        "text": "People should not do things that are revolting to others, even if no one is harmed.",
+        "category": "purity"
+    },
+    {
+        "number": 3.2,
+        "text": "The government should try to help people live virtuously and avoid sin.",
+        "category": "purity"
+    },
+    {
+        "number": 3.3,
+        "text": "I would call some acts wrong on the grounds that they are unnat- ural or disgusting.",
+        "category": "purity"
+    },
+    {
+        "number": 3.4,
+        "text": "Chastity is still an important virtue for teenagers today, even if many don’t think it is.",
+        "category": "purity"
+    },
+    {
+        "number": 4.1,
+        "text": "Men and women each have different roles to play in society.",
+        "category": "authority"
+    },
+    {
+        "number": 4.2,
+        "text": "If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",
+        "category": "authority"
+    },
+    {
+        "number": 4.3,
+        "text": "Respect for authority is something all children need to learn.",
+        "category": "authority"
+    },
+    {
+        "number": 4.4,
+        "text": "When the government makes laws, those laws should always respect the traditions and heritage of the country.",
+        "category": "authority"
+    },
+    {
+        "number": 5.1,
+        "text": "If I saw a mother slapping her child, I would be outraged.",
+        "category": "Harm"
+    },
+    {
+        "number": 5.2,
+        "text": "It can never be right to kill a human being.",
+        "category": "Harm"
+    },
+    {
+        "number": 5.3,
+        "text": "Compassion for those who are suffering is the most crucial virtue.",
+        "category": "Harm"
+    },
+    {
+        "number": 5.4,
+        "text": "The government must first and foremost protect all people from harm.",
+        "category": "Harm"}
+],
+ "Inverse" : [
+    { "number": 1.1,
+        "text": "If I saw a mother slapping her child, I would not necesarily be outraged.",
+        "category": "inverse_Harm"
+    },
+    {
+        "number": 1.2,
+        "text": "In some cases, it could be right to kill a human being.",
+        "category": "inverse_Harm"
+    },
+    {
+        "number": 1.3,
+        "text": "Compassion for those who are suffering is not the most crucial virtue.",
+        "category": "inverse_Harm"
+    },
+    {
+        "number": 1.4,
+        "text": "The government does not need to first and foremost protect all people from harm.",
+        "category": "inverse_Harm"
+    },
+    {"number": 2.1,
+                "text": "If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",
+                "category": "inverse_Ingroup"
+    },
+    {
+        "number": 2.2,
         "text": "When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",
         "category": "inverse_Ingroup"
     },
     {
-        "number": 11.3,
+        "number": 2.3,
         "text": "Loyalty to ones group is not more important than ones individual concerns.",
         "category": "inverse_Ingroup"
     },
     {
-        "number": 11.4,
+        "number": 2.4,
         "text": "The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.",
         "category": "inverse_Ingroup"
     },
     {
-        "number": 12.1,
+        "number": 3.1,
         "text": "People can do things that are revolting to others if no one is harmed.",
         "category": "inverse_Purity"
     },
     {
-        "number": 12.2,
+        "number": 3.2,
         "text": "I would not call any acts wrong on the grounds that they are unnatural or disgusting.",
         "category": "inverse_Purity"
     },
     {
-        "number": 12.3,
+        "number": 3.3,
         "text": "Chastity is not still an important virtue for teenagers today, even if many think it is.",
         "category": "inverse_Purity"
     },
     {
-        "number": 12.4,
+        "number": 3.4,
         "text": "The government does not need to try to help people live virtuously and avoid sin.",
         "category": "inverse_Purity"
     },
     {
-        "number": 13.1,
+        "number": 4.1,
         "text": "If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldn’t be fair to those behind me.",
         "category": "inverse_fairness"
     },
     {
-        "number": 13.2,
+        "number": 4.2,
         "text": "In the fight against terrorism, no peoples rights should have to be violated.",
         "category": "inverse_fairness"
     },
     {
-        "number": 13.3,
+        "number": 4.3,
         "text": "Justice, fairness and equality are not the most important requirements for a society.",
         "category": "inverse_fairness"
     },
     {
-        "number": 13.4,
+        "number": 4.4,
         "text": "When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",
         "category": "inverse_fairness"
+    },
+    {
+        "number": 5.1,
+        "text": "Men and women can play the same roles in society.",
+        "category": "inverse_authority"
+    },
+    {
+        "number": 5.2,
+        "text": "If I were a soldier and disagreed with my commanding officer’s orders, I would not obey, regardless of duty.",
+        "category": "inverse_authority"
+    },
+    {
+        "number": 5.3,
+        "text": "Respect for authority is not something all children need to learn.",
+        "category": "inverse_authority"
+    },
+    {
+        "number": 5.4,
+        "text": "When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",
+        "category": "inverse_authority"
     }
 ]
+}
