@@ -241,7 +241,7 @@
     }
 ],
 
-    "Paper_1" : [
+    "LibConserv_Graham_2009" : [
     {
         "number": 1.1,
         "text": "If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",
@@ -337,7 +337,7 @@
         "text": "The government must first and foremost protect all people from harm.",
         "category": "Harm"}
 ],
- "Inverse" : [
+ "Inverse_LibConserv_Graham_2009" : [
     { "number": 1.1,
         "text": "If I saw a mother slapping her child, I would not necesarily be outraged.",
         "category": "inverse_Harm"
