@@ -1,0 +1,601 @@
+,response,prompt,prompt_number,category,origin,trial,model,temperature
+0,4,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,1,deepseek-chat,1.5
+1,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,1,deepseek-chat,1.5
+2,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,1,deepseek-chat,1.5
+3,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,1,deepseek-chat,1.5
+4,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,1,deepseek-chat,1.5
+5,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,1,deepseek-chat,1.5
+6,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,1,deepseek-chat,1.5
+7,5,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,1,deepseek-chat,1.5
+8,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,1,deepseek-chat,1.5
+9,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,1,deepseek-chat,1.5
+10,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,1,deepseek-chat,1.5
+11,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,1,deepseek-chat,1.5
+12,3,Men and women each have different roles to play in society.,4.1,authority,graham,1,deepseek-chat,1.5
+13,4,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,1,deepseek-chat,1.5
+14,3,Respect for authority is something all children need to learn.,4.3,authority,graham,1,deepseek-chat,1.5
+15,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,1,deepseek-chat,1.5
+16,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,1,deepseek-chat,1.5
+17,3,It can never be right to kill a human being.,5.2,harm,graham,1,deepseek-chat,1.5
+18,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,1,deepseek-chat,1.5
+19,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,1,deepseek-chat,1.5
+20,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,1,deepseek-chat,1.5
+21,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,1,deepseek-chat,1.5
+22,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,1,deepseek-chat,1.5
+23,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,1,deepseek-chat,1.5
+24,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,1,deepseek-chat,1.5
+25,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,1,deepseek-chat,1.5
+26,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,1,deepseek-chat,1.5
+27,2,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,1,deepseek-chat,1.5
+28,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,1,deepseek-chat,1.5
+29,4,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,1,deepseek-chat,1.5
+30,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,1,deepseek-chat,1.5
+31,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,1,deepseek-chat,1.5
+32,1,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,1,deepseek-chat,1.5
+33,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,1,deepseek-chat,1.5
+34,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,1,deepseek-chat,1.5
+35,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,1,deepseek-chat,1.5
+36,5,Men and women can play the same roles in society.,5.1,authority,inverse,1,deepseek-chat,1.5
+37,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,1,deepseek-chat,1.5
+38,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,1,deepseek-chat,1.5
+39,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,1,deepseek-chat,1.5
+40,2,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,2,deepseek-chat,1.5
+41,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,2,deepseek-chat,1.5
+42,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,2,deepseek-chat,1.5
+43,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,2,deepseek-chat,1.5
+44,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,2,deepseek-chat,1.5
+45,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,2,deepseek-chat,1.5
+46,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,2,deepseek-chat,1.5
+47,5,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,2,deepseek-chat,1.5
+48,3,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,2,deepseek-chat,1.5
+49,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,2,deepseek-chat,1.5
+50,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,2,deepseek-chat,1.5
+51,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,2,deepseek-chat,1.5
+52,4,Men and women each have different roles to play in society.,4.1,authority,graham,2,deepseek-chat,1.5
+53,4,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,2,deepseek-chat,1.5
+54,4,Respect for authority is something all children need to learn.,4.3,authority,graham,2,deepseek-chat,1.5
+55,3,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,2,deepseek-chat,1.5
+56,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,2,deepseek-chat,1.5
+57,3,It can never be right to kill a human being.,5.2,harm,graham,2,deepseek-chat,1.5
+58,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,2,deepseek-chat,1.5
+59,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,2,deepseek-chat,1.5
+60,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,2,deepseek-chat,1.5
+61,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,2,deepseek-chat,1.5
+62,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,2,deepseek-chat,1.5
+63,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,2,deepseek-chat,1.5
+64,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,2,deepseek-chat,1.5
+65,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,2,deepseek-chat,1.5
+66,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,2,deepseek-chat,1.5
+67,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,2,deepseek-chat,1.5
+68,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,2,deepseek-chat,1.5
+69,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,2,deepseek-chat,1.5
+70,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,2,deepseek-chat,1.5
+71,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,2,deepseek-chat,1.5
+72,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,2,deepseek-chat,1.5
+73,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,2,deepseek-chat,1.5
+74,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,2,deepseek-chat,1.5
+75,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,2,deepseek-chat,1.5
+76,5,Men and women can play the same roles in society.,5.1,authority,inverse,2,deepseek-chat,1.5
+77,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,2,deepseek-chat,1.5
+78,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,2,deepseek-chat,1.5
+79,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,2,deepseek-chat,1.5
+80,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,3,deepseek-chat,1.5
+81,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,3,deepseek-chat,1.5
+82,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,3,deepseek-chat,1.5
+83,4,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,3,deepseek-chat,1.5
+84,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,3,deepseek-chat,1.5
+85,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,3,deepseek-chat,1.5
+86,5,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,3,deepseek-chat,1.5
+87,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,3,deepseek-chat,1.5
+88,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,3,deepseek-chat,1.5
+89,2,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,3,deepseek-chat,1.5
+90,4,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,3,deepseek-chat,1.5
+91,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,3,deepseek-chat,1.5
+92,3,Men and women each have different roles to play in society.,4.1,authority,graham,3,deepseek-chat,1.5
+93,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,3,deepseek-chat,1.5
+94,3,Respect for authority is something all children need to learn.,4.3,authority,graham,3,deepseek-chat,1.5
+95,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,3,deepseek-chat,1.5
+96,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,3,deepseek-chat,1.5
+97,3,It can never be right to kill a human being.,5.2,harm,graham,3,deepseek-chat,1.5
+98,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,3,deepseek-chat,1.5
+99,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,3,deepseek-chat,1.5
+100,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,3,deepseek-chat,1.5
+101,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,3,deepseek-chat,1.5
+102,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,3,deepseek-chat,1.5
+103,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,3,deepseek-chat,1.5
+104,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,3,deepseek-chat,1.5
+105,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,3,deepseek-chat,1.5
+106,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,3,deepseek-chat,1.5
+107,2,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,3,deepseek-chat,1.5
+108,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,3,deepseek-chat,1.5
+109,4,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,3,deepseek-chat,1.5
+110,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,3,deepseek-chat,1.5
+111,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,3,deepseek-chat,1.5
+112,2,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,3,deepseek-chat,1.5
+113,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,3,deepseek-chat,1.5
+114,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,3,deepseek-chat,1.5
+115,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,3,deepseek-chat,1.5
+116,5,Men and women can play the same roles in society.,5.1,authority,inverse,3,deepseek-chat,1.5
+117,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,3,deepseek-chat,1.5
+118,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,3,deepseek-chat,1.5
+119,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,3,deepseek-chat,1.5
+120,4,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,4,deepseek-chat,1.5
+121,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,4,deepseek-chat,1.5
+122,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,4,deepseek-chat,1.5
+123,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,4,deepseek-chat,1.5
+124,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,4,deepseek-chat,1.5
+125,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,4,deepseek-chat,1.5
+126,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,4,deepseek-chat,1.5
+127,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,4,deepseek-chat,1.5
+128,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,4,deepseek-chat,1.5
+129,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,4,deepseek-chat,1.5
+130,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,4,deepseek-chat,1.5
+131,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,4,deepseek-chat,1.5
+132,3,Men and women each have different roles to play in society.,4.1,authority,graham,4,deepseek-chat,1.5
+133,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,4,deepseek-chat,1.5
+134,3,Respect for authority is something all children need to learn.,4.3,authority,graham,4,deepseek-chat,1.5
+135,3,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,4,deepseek-chat,1.5
+136,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,4,deepseek-chat,1.5
+137,3,It can never be right to kill a human being.,5.2,harm,graham,4,deepseek-chat,1.5
+138,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,4,deepseek-chat,1.5
+139,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,4,deepseek-chat,1.5
+140,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,4,deepseek-chat,1.5
+141,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,4,deepseek-chat,1.5
+142,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,4,deepseek-chat,1.5
+143,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,4,deepseek-chat,1.5
+144,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,4,deepseek-chat,1.5
+145,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,4,deepseek-chat,1.5
+146,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,4,deepseek-chat,1.5
+147,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,4,deepseek-chat,1.5
+148,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,4,deepseek-chat,1.5
+149,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,4,deepseek-chat,1.5
+150,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,4,deepseek-chat,1.5
+151,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,4,deepseek-chat,1.5
+152,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,4,deepseek-chat,1.5
+153,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,4,deepseek-chat,1.5
+154,3,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,4,deepseek-chat,1.5
+155,2,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,4,deepseek-chat,1.5
+156,5,Men and women can play the same roles in society.,5.1,authority,inverse,4,deepseek-chat,1.5
+157,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,4,deepseek-chat,1.5
+158,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,4,deepseek-chat,1.5
+159,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,4,deepseek-chat,1.5
+160,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,5,deepseek-chat,1.5
+161,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,5,deepseek-chat,1.5
+162,2,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,5,deepseek-chat,1.5
+163,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,5,deepseek-chat,1.5
+164,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,5,deepseek-chat,1.5
+165,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,5,deepseek-chat,1.5
+166,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,5,deepseek-chat,1.5
+167,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,5,deepseek-chat,1.5
+168,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,5,deepseek-chat,1.5
+169,2,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,5,deepseek-chat,1.5
+170,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,5,deepseek-chat,1.5
+171,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,5,deepseek-chat,1.5
+172,3,Men and women each have different roles to play in society.,4.1,authority,graham,5,deepseek-chat,1.5
+173,5,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,5,deepseek-chat,1.5
+174,4,Respect for authority is something all children need to learn.,4.3,authority,graham,5,deepseek-chat,1.5
+175,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,5,deepseek-chat,1.5
+176,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,5,deepseek-chat,1.5
+177,3,It can never be right to kill a human being.,5.2,harm,graham,5,deepseek-chat,1.5
+178,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,5,deepseek-chat,1.5
+179,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,5,deepseek-chat,1.5
+180,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,5,deepseek-chat,1.5
+181,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,5,deepseek-chat,1.5
+182,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,5,deepseek-chat,1.5
+183,2,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,5,deepseek-chat,1.5
+184,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,5,deepseek-chat,1.5
+185,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,5,deepseek-chat,1.5
+186,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,5,deepseek-chat,1.5
+187,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,5,deepseek-chat,1.5
+188,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,5,deepseek-chat,1.5
+189,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,5,deepseek-chat,1.5
+190,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,5,deepseek-chat,1.5
+191,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,5,deepseek-chat,1.5
+192,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,5,deepseek-chat,1.5
+193,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,5,deepseek-chat,1.5
+194,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,5,deepseek-chat,1.5
+195,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,5,deepseek-chat,1.5
+196,5,Men and women can play the same roles in society.,5.1,authority,inverse,5,deepseek-chat,1.5
+197,2,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,5,deepseek-chat,1.5
+198,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,5,deepseek-chat,1.5
+199,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,5,deepseek-chat,1.5
+200,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,6,deepseek-chat,1.5
+201,2,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,6,deepseek-chat,1.5
+202,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,6,deepseek-chat,1.5
+203,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,6,deepseek-chat,1.5
+204,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,6,deepseek-chat,1.5
+205,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,6,deepseek-chat,1.5
+206,5,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,6,deepseek-chat,1.5
+207,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,6,deepseek-chat,1.5
+208,3,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,6,deepseek-chat,1.5
+209,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,6,deepseek-chat,1.5
+210,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,6,deepseek-chat,1.5
+211,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,6,deepseek-chat,1.5
+212,3,Men and women each have different roles to play in society.,4.1,authority,graham,6,deepseek-chat,1.5
+213,4,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,6,deepseek-chat,1.5
+214,4,Respect for authority is something all children need to learn.,4.3,authority,graham,6,deepseek-chat,1.5
+215,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,6,deepseek-chat,1.5
+216,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,6,deepseek-chat,1.5
+217,2,It can never be right to kill a human being.,5.2,harm,graham,6,deepseek-chat,1.5
+218,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,6,deepseek-chat,1.5
+219,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,6,deepseek-chat,1.5
+220,2,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,6,deepseek-chat,1.5
+221,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,6,deepseek-chat,1.5
+222,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,6,deepseek-chat,1.5
+223,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,6,deepseek-chat,1.5
+224,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,6,deepseek-chat,1.5
+225,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,6,deepseek-chat,1.5
+226,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,6,deepseek-chat,1.5
+227,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,6,deepseek-chat,1.5
+228,2,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,6,deepseek-chat,1.5
+229,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,6,deepseek-chat,1.5
+230,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,6,deepseek-chat,1.5
+231,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,6,deepseek-chat,1.5
+232,2,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,6,deepseek-chat,1.5
+233,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,6,deepseek-chat,1.5
+234,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,6,deepseek-chat,1.5
+235,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,6,deepseek-chat,1.5
+236,5,Men and women can play the same roles in society.,5.1,authority,inverse,6,deepseek-chat,1.5
+237,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,6,deepseek-chat,1.5
+238,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,6,deepseek-chat,1.5
+239,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,6,deepseek-chat,1.5
+240,2,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,7,deepseek-chat,1.5
+241,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,7,deepseek-chat,1.5
+242,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,7,deepseek-chat,1.5
+243,4,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,7,deepseek-chat,1.5
+244,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,7,deepseek-chat,1.5
+245,4,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,7,deepseek-chat,1.5
+246,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,7,deepseek-chat,1.5
+247,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,7,deepseek-chat,1.5
+248,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,7,deepseek-chat,1.5
+249,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,7,deepseek-chat,1.5
+250,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,7,deepseek-chat,1.5
+251,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,7,deepseek-chat,1.5
+252,3,Men and women each have different roles to play in society.,4.1,authority,graham,7,deepseek-chat,1.5
+253,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,7,deepseek-chat,1.5
+254,4,Respect for authority is something all children need to learn.,4.3,authority,graham,7,deepseek-chat,1.5
+255,3,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,7,deepseek-chat,1.5
+256,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,7,deepseek-chat,1.5
+257,3,It can never be right to kill a human being.,5.2,harm,graham,7,deepseek-chat,1.5
+258,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,7,deepseek-chat,1.5
+259,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,7,deepseek-chat,1.5
+260,2,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,7,deepseek-chat,1.5
+261,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,7,deepseek-chat,1.5
+262,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,7,deepseek-chat,1.5
+263,2,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,7,deepseek-chat,1.5
+264,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,7,deepseek-chat,1.5
+265,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,7,deepseek-chat,1.5
+266,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,7,deepseek-chat,1.5
+267,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,7,deepseek-chat,1.5
+268,4,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,7,deepseek-chat,1.5
+269,4,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,7,deepseek-chat,1.5
+270,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,7,deepseek-chat,1.5
+271,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,7,deepseek-chat,1.5
+272,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,7,deepseek-chat,1.5
+273,2,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,7,deepseek-chat,1.5
+274,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,7,deepseek-chat,1.5
+275,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,7,deepseek-chat,1.5
+276,5,Men and women can play the same roles in society.,5.1,authority,inverse,7,deepseek-chat,1.5
+277,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,7,deepseek-chat,1.5
+278,2,Respect for authority is not something all children need to learn.,5.3,authority,inverse,7,deepseek-chat,1.5
+279,2,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,7,deepseek-chat,1.5
+280,4,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,8,deepseek-chat,1.5
+281,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,8,deepseek-chat,1.5
+282,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,8,deepseek-chat,1.5
+283,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,8,deepseek-chat,1.5
+284,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,8,deepseek-chat,1.5
+285,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,8,deepseek-chat,1.5
+286,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,8,deepseek-chat,1.5
+287,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,8,deepseek-chat,1.5
+288,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,8,deepseek-chat,1.5
+289,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,8,deepseek-chat,1.5
+290,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,8,deepseek-chat,1.5
+291,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,8,deepseek-chat,1.5
+292,3,Men and women each have different roles to play in society.,4.1,authority,graham,8,deepseek-chat,1.5
+293,4,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,8,deepseek-chat,1.5
+294,4,Respect for authority is something all children need to learn.,4.3,authority,graham,8,deepseek-chat,1.5
+295,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,8,deepseek-chat,1.5
+296,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,8,deepseek-chat,1.5
+297,3,It can never be right to kill a human being.,5.2,harm,graham,8,deepseek-chat,1.5
+298,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,8,deepseek-chat,1.5
+299,5,The government must first and foremost protect all people from harm.,5.4,harm,graham,8,deepseek-chat,1.5
+300,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,8,deepseek-chat,1.5
+301,4,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,8,deepseek-chat,1.5
+302,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,8,deepseek-chat,1.5
+303,2,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,8,deepseek-chat,1.5
+304,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,8,deepseek-chat,1.5
+305,2,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,8,deepseek-chat,1.5
+306,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,8,deepseek-chat,1.5
+307,2,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,8,deepseek-chat,1.5
+308,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,8,deepseek-chat,1.5
+309,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,8,deepseek-chat,1.5
+310,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,8,deepseek-chat,1.5
+311,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,8,deepseek-chat,1.5
+312,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,8,deepseek-chat,1.5
+313,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,8,deepseek-chat,1.5
+314,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,8,deepseek-chat,1.5
+315,2,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,8,deepseek-chat,1.5
+316,5,Men and women can play the same roles in society.,5.1,authority,inverse,8,deepseek-chat,1.5
+317,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,8,deepseek-chat,1.5
+318,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,8,deepseek-chat,1.5
+319,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,8,deepseek-chat,1.5
+320,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,9,deepseek-chat,1.5
+321,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,9,deepseek-chat,1.5
+322,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,9,deepseek-chat,1.5
+323,2,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,9,deepseek-chat,1.5
+324,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,9,deepseek-chat,1.5
+325,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,9,deepseek-chat,1.5
+326,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,9,deepseek-chat,1.5
+327,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,9,deepseek-chat,1.5
+328,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,9,deepseek-chat,1.5
+329,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,9,deepseek-chat,1.5
+330,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,9,deepseek-chat,1.5
+331,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,9,deepseek-chat,1.5
+332,3,Men and women each have different roles to play in society.,4.1,authority,graham,9,deepseek-chat,1.5
+333,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,9,deepseek-chat,1.5
+334,4,Respect for authority is something all children need to learn.,4.3,authority,graham,9,deepseek-chat,1.5
+335,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,9,deepseek-chat,1.5
+336,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,9,deepseek-chat,1.5
+337,3,It can never be right to kill a human being.,5.2,harm,graham,9,deepseek-chat,1.5
+338,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,9,deepseek-chat,1.5
+339,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,9,deepseek-chat,1.5
+340,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,9,deepseek-chat,1.5
+341,4,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,9,deepseek-chat,1.5
+342,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,9,deepseek-chat,1.5
+343,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,9,deepseek-chat,1.5
+344,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,9,deepseek-chat,1.5
+345,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,9,deepseek-chat,1.5
+346,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,9,deepseek-chat,1.5
+347,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,9,deepseek-chat,1.5
+348,4,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,9,deepseek-chat,1.5
+349,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,9,deepseek-chat,1.5
+350,2,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,9,deepseek-chat,1.5
+351,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,9,deepseek-chat,1.5
+352,2,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,9,deepseek-chat,1.5
+353,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,9,deepseek-chat,1.5
+354,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,9,deepseek-chat,1.5
+355,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,9,deepseek-chat,1.5
+356,5,Men and women can play the same roles in society.,5.1,authority,inverse,9,deepseek-chat,1.5
+357,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,9,deepseek-chat,1.5
+358,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,9,deepseek-chat,1.5
+359,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,9,deepseek-chat,1.5
+360,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,10,deepseek-chat,1.5
+361,4,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,10,deepseek-chat,1.5
+362,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,10,deepseek-chat,1.5
+363,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,10,deepseek-chat,1.5
+364,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,10,deepseek-chat,1.5
+365,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,10,deepseek-chat,1.5
+366,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,10,deepseek-chat,1.5
+367,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,10,deepseek-chat,1.5
+368,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,10,deepseek-chat,1.5
+369,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,10,deepseek-chat,1.5
+370,2,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,10,deepseek-chat,1.5
+371,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,10,deepseek-chat,1.5
+372,3,Men and women each have different roles to play in society.,4.1,authority,graham,10,deepseek-chat,1.5
+373,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,10,deepseek-chat,1.5
+374,3,Respect for authority is something all children need to learn.,4.3,authority,graham,10,deepseek-chat,1.5
+375,3,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,10,deepseek-chat,1.5
+376,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,10,deepseek-chat,1.5
+377,4,It can never be right to kill a human being.,5.2,harm,graham,10,deepseek-chat,1.5
+378,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,10,deepseek-chat,1.5
+379,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,10,deepseek-chat,1.5
+380,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,10,deepseek-chat,1.5
+381,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,10,deepseek-chat,1.5
+382,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,10,deepseek-chat,1.5
+383,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,10,deepseek-chat,1.5
+384,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,10,deepseek-chat,1.5
+385,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,10,deepseek-chat,1.5
+386,4,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,10,deepseek-chat,1.5
+387,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,10,deepseek-chat,1.5
+388,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,10,deepseek-chat,1.5
+389,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,10,deepseek-chat,1.5
+390,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,10,deepseek-chat,1.5
+391,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,10,deepseek-chat,1.5
+392,2,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,10,deepseek-chat,1.5
+393,4,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,10,deepseek-chat,1.5
+394,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,10,deepseek-chat,1.5
+395,2,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,10,deepseek-chat,1.5
+396,5,Men and women can play the same roles in society.,5.1,authority,inverse,10,deepseek-chat,1.5
+397,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,10,deepseek-chat,1.5
+398,2,Respect for authority is not something all children need to learn.,5.3,authority,inverse,10,deepseek-chat,1.5
+399,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,10,deepseek-chat,1.5
+400,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,11,deepseek-chat,1.5
+401,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,11,deepseek-chat,1.5
+402,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,11,deepseek-chat,1.5
+403,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,11,deepseek-chat,1.5
+404,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,11,deepseek-chat,1.5
+405,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,11,deepseek-chat,1.5
+406,5,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,11,deepseek-chat,1.5
+407,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,11,deepseek-chat,1.5
+408,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,11,deepseek-chat,1.5
+409,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,11,deepseek-chat,1.5
+410,4,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,11,deepseek-chat,1.5
+411,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,11,deepseek-chat,1.5
+412,3,Men and women each have different roles to play in society.,4.1,authority,graham,11,deepseek-chat,1.5
+413,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,11,deepseek-chat,1.5
+414,4,Respect for authority is something all children need to learn.,4.3,authority,graham,11,deepseek-chat,1.5
+415,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,11,deepseek-chat,1.5
+416,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,11,deepseek-chat,1.5
+417,3,It can never be right to kill a human being.,5.2,harm,graham,11,deepseek-chat,1.5
+418,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,11,deepseek-chat,1.5
+419,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,11,deepseek-chat,1.5
+420,2,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,11,deepseek-chat,1.5
+421,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,11,deepseek-chat,1.5
+422,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,11,deepseek-chat,1.5
+423,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,11,deepseek-chat,1.5
+424,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,11,deepseek-chat,1.5
+425,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,11,deepseek-chat,1.5
+426,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,11,deepseek-chat,1.5
+427,2,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,11,deepseek-chat,1.5
+428,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,11,deepseek-chat,1.5
+429,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,11,deepseek-chat,1.5
+430,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,11,deepseek-chat,1.5
+431,4,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,11,deepseek-chat,1.5
+432,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,11,deepseek-chat,1.5
+433,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,11,deepseek-chat,1.5
+434,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,11,deepseek-chat,1.5
+435,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,11,deepseek-chat,1.5
+436,5,Men and women can play the same roles in society.,5.1,authority,inverse,11,deepseek-chat,1.5
+437,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,11,deepseek-chat,1.5
+438,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,11,deepseek-chat,1.5
+439,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,11,deepseek-chat,1.5
+440,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,12,deepseek-chat,1.5
+441,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,12,deepseek-chat,1.5
+442,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,12,deepseek-chat,1.5
+443,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,12,deepseek-chat,1.5
+444,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,12,deepseek-chat,1.5
+445,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,12,deepseek-chat,1.5
+446,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,12,deepseek-chat,1.5
+447,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,12,deepseek-chat,1.5
+448,4,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,12,deepseek-chat,1.5
+449,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,12,deepseek-chat,1.5
+450,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,12,deepseek-chat,1.5
+451,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,12,deepseek-chat,1.5
+452,3,Men and women each have different roles to play in society.,4.1,authority,graham,12,deepseek-chat,1.5
+453,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,12,deepseek-chat,1.5
+454,4,Respect for authority is something all children need to learn.,4.3,authority,graham,12,deepseek-chat,1.5
+455,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,12,deepseek-chat,1.5
+456,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,12,deepseek-chat,1.5
+457,3,It can never be right to kill a human being.,5.2,harm,graham,12,deepseek-chat,1.5
+458,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,12,deepseek-chat,1.5
+459,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,12,deepseek-chat,1.5
+460,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,12,deepseek-chat,1.5
+461,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,12,deepseek-chat,1.5
+462,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,12,deepseek-chat,1.5
+463,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,12,deepseek-chat,1.5
+464,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,12,deepseek-chat,1.5
+465,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,12,deepseek-chat,1.5
+466,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,12,deepseek-chat,1.5
+467,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,12,deepseek-chat,1.5
+468,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,12,deepseek-chat,1.5
+469,4,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,12,deepseek-chat,1.5
+470,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,12,deepseek-chat,1.5
+471,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,12,deepseek-chat,1.5
+472,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,12,deepseek-chat,1.5
+473,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,12,deepseek-chat,1.5
+474,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,12,deepseek-chat,1.5
+475,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,12,deepseek-chat,1.5
+476,5,Men and women can play the same roles in society.,5.1,authority,inverse,12,deepseek-chat,1.5
+477,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,12,deepseek-chat,1.5
+478,2,Respect for authority is not something all children need to learn.,5.3,authority,inverse,12,deepseek-chat,1.5
+479,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,12,deepseek-chat,1.5
+480,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,13,deepseek-chat,1.5
+481,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,13,deepseek-chat,1.5
+482,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,13,deepseek-chat,1.5
+483,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,13,deepseek-chat,1.5
+484,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,13,deepseek-chat,1.5
+485,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,13,deepseek-chat,1.5
+486,5,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,13,deepseek-chat,1.5
+487,5,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,13,deepseek-chat,1.5
+488,3,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,13,deepseek-chat,1.5
+489,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,13,deepseek-chat,1.5
+490,2,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,13,deepseek-chat,1.5
+491,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,13,deepseek-chat,1.5
+492,3,Men and women each have different roles to play in society.,4.1,authority,graham,13,deepseek-chat,1.5
+493,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,13,deepseek-chat,1.5
+494,4,Respect for authority is something all children need to learn.,4.3,authority,graham,13,deepseek-chat,1.5
+495,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,13,deepseek-chat,1.5
+496,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,13,deepseek-chat,1.5
+497,3,It can never be right to kill a human being.,5.2,harm,graham,13,deepseek-chat,1.5
+498,4,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,13,deepseek-chat,1.5
+499,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,13,deepseek-chat,1.5
+500,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,13,deepseek-chat,1.5
+501,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,13,deepseek-chat,1.5
+502,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,13,deepseek-chat,1.5
+503,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,13,deepseek-chat,1.5
+504,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,13,deepseek-chat,1.5
+505,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,13,deepseek-chat,1.5
+506,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,13,deepseek-chat,1.5
+507,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,13,deepseek-chat,1.5
+508,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,13,deepseek-chat,1.5
+509,4,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,13,deepseek-chat,1.5
+510,2,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,13,deepseek-chat,1.5
+511,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,13,deepseek-chat,1.5
+512,3,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,13,deepseek-chat,1.5
+513,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,13,deepseek-chat,1.5
+514,3,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,13,deepseek-chat,1.5
+515,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,13,deepseek-chat,1.5
+516,5,Men and women can play the same roles in society.,5.1,authority,inverse,13,deepseek-chat,1.5
+517,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,13,deepseek-chat,1.5
+518,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,13,deepseek-chat,1.5
+519,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,13,deepseek-chat,1.5
+520,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,14,deepseek-chat,1.5
+521,2,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,14,deepseek-chat,1.5
+522,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,14,deepseek-chat,1.5
+523,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,14,deepseek-chat,1.5
+524,5,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,14,deepseek-chat,1.5
+525,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,14,deepseek-chat,1.5
+526,5,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,14,deepseek-chat,1.5
+527,4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,14,deepseek-chat,1.5
+528,3,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,14,deepseek-chat,1.5
+529,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,14,deepseek-chat,1.5
+530,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,14,deepseek-chat,1.5
+531,3,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,14,deepseek-chat,1.5
+532,3,Men and women each have different roles to play in society.,4.1,authority,graham,14,deepseek-chat,1.5
+533,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,14,deepseek-chat,1.5
+534,4,Respect for authority is something all children need to learn.,4.3,authority,graham,14,deepseek-chat,1.5
+535,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,14,deepseek-chat,1.5
+536,3,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,14,deepseek-chat,1.5
+537,3,It can never be right to kill a human being.,5.2,harm,graham,14,deepseek-chat,1.5
+538,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,14,deepseek-chat,1.5
+539,5,The government must first and foremost protect all people from harm.,5.4,harm,graham,14,deepseek-chat,1.5
+540,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,14,deepseek-chat,1.5
+541,4,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,14,deepseek-chat,1.5
+542,3,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,14,deepseek-chat,1.5
+543,3,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,14,deepseek-chat,1.5
+544,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,14,deepseek-chat,1.5
+545,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,14,deepseek-chat,1.5
+546,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,14,deepseek-chat,1.5
+547,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,14,deepseek-chat,1.5
+548,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,14,deepseek-chat,1.5
+549,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,14,deepseek-chat,1.5
+550,2,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,14,deepseek-chat,1.5
+551,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,14,deepseek-chat,1.5
+552,1,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,14,deepseek-chat,1.5
+553,3,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,14,deepseek-chat,1.5
+554,2,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,14,deepseek-chat,1.5
+555,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,14,deepseek-chat,1.5
+556,4,Men and women can play the same roles in society.,5.1,authority,inverse,14,deepseek-chat,1.5
+557,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,14,deepseek-chat,1.5
+558,3,Respect for authority is not something all children need to learn.,5.3,authority,inverse,14,deepseek-chat,1.5
+559,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,14,deepseek-chat,1.5
+560,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",1.1,ingroup,graham,15,deepseek-chat,1.5
+561,3,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",1.2,ingroup,graham,15,deepseek-chat,1.5
+562,3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,1.3,ingroup,graham,15,deepseek-chat,1.5
+563,3,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",1.4,ingroup,graham,15,deepseek-chat,1.5
+564,4,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",2.1,fairness,graham,15,deepseek-chat,1.5
+565,3,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",2.2,fairness,graham,15,deepseek-chat,1.5
+566,4,"Justice, fairness and equality are the most important requirements for a society.",2.3,fairness,graham,15,deepseek-chat,1.5
+567,5,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",2.4,fairness,graham,15,deepseek-chat,1.5
+568,3,"People should not do things that are revolting to others, even if no one is harmed.",3.1,purity,graham,15,deepseek-chat,1.5
+569,3,The government should try to help people live virtuously and avoid sin.,3.2,purity,graham,15,deepseek-chat,1.5
+570,3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,3.3,purity,graham,15,deepseek-chat,1.5
+571,4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",3.4,purity,graham,15,deepseek-chat,1.5
+572,3,Men and women each have different roles to play in society.,4.1,authority,graham,15,deepseek-chat,1.5
+573,3,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",4.2,authority,graham,15,deepseek-chat,1.5
+574,4,Respect for authority is something all children need to learn.,4.3,authority,graham,15,deepseek-chat,1.5
+575,4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",4.4,authority,graham,15,deepseek-chat,1.5
+576,4,"If I saw a mother slapping her child, I would be outraged.",5.1,harm,graham,15,deepseek-chat,1.5
+577,3,It can never be right to kill a human being.,5.2,harm,graham,15,deepseek-chat,1.5
+578,5,Compassion for those who are suffering is the most crucial virtue.,5.3,harm,graham,15,deepseek-chat,1.5
+579,4,The government must first and foremost protect all people from harm.,5.4,harm,graham,15,deepseek-chat,1.5
+580,3,"If I saw a mother slapping her child, I would not necesarily be outraged.",1.1,harm,inverse,15,deepseek-chat,1.5
+581,3,"In some cases, it could be right to kill a human being.",1.2,harm,inverse,15,deepseek-chat,1.5
+582,2,Compassion for those who are suffering is not the most crucial virtue.,1.3,harm,inverse,15,deepseek-chat,1.5
+583,2,The government does not need to first and foremost protect all people from harm.,1.4,harm,inverse,15,deepseek-chat,1.5
+584,3,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",2.1,ingroup,inverse,15,deepseek-chat,1.5
+585,3,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",2.2,ingroup,inverse,15,deepseek-chat,1.5
+586,3,Loyalty to ones group is not more important than ones individual concerns.,2.3,ingroup,inverse,15,deepseek-chat,1.5
+587,3,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,2.4,ingroup,inverse,15,deepseek-chat,1.5
+588,3,People can do things that are revolting to others if no one is harmed.,3.1,purity,inverse,15,deepseek-chat,1.5
+589,3,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,3.2,purity,inverse,15,deepseek-chat,1.5
+590,3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",3.3,purity,inverse,15,deepseek-chat,1.5
+591,3,The government does not need to try to help people live virtuously and avoid sin.,3.4,purity,inverse,15,deepseek-chat,1.5
+592,2,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",4.1,fairness,inverse,15,deepseek-chat,1.5
+593,1,"In the fight against terrorism, no peoples rights should have to be violated.",4.2,fairness,inverse,15,deepseek-chat,1.5
+594,3,"Justice, fairness and equality are not the most important requirements for a society.",4.3,fairness,inverse,15,deepseek-chat,1.5
+595,3,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",4.4,fairness,inverse,15,deepseek-chat,1.5
+596,5,Men and women can play the same roles in society.,5.1,authority,inverse,15,deepseek-chat,1.5
+597,3,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",5.2,authority,inverse,15,deepseek-chat,1.5
+598,2,Respect for authority is not something all children need to learn.,5.3,authority,inverse,15,deepseek-chat,1.5
+599,3,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",5.4,authority,inverse,15,deepseek-chat,1.5

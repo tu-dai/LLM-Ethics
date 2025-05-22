@@ -1,0 +1,41 @@
+,prompt_number,prompt,category,origin
+0,1.1,"If I knew that my brother had committed a murder, and the police were looking for him, I would not turn him in.",ingroup,graham
+1,1.2,"When it comes to close friendships and romantic relationships, it is okay for people to seek out only members of their own ethnic or religious group.",ingroup,graham
+2,1.3,Loyalty to oneâ€™s group is more important than oneâ€™s individual concerns.,ingroup,graham
+3,1.4,"The government should strive to improve the well-being of people in our nation, even if it sometimes happens at the expense of people in other nations.",ingroup,graham
+4,2.1,"If a friend wanted to cut in with me on a long line, I would feel uncomfortable because it wouldnâ€™t be fair to those behind me.",fairness,graham
+5,2.2,"In the fight against terrorism, some peopleâ€™s rights will have to be violated.",fairness,graham
+6,2.3,"Justice, fairness and equality are the most important requirements for a society.",fairness,graham
+7,2.4,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",fairness,graham
+8,3.1,"People should not do things that are revolting to others, even if no one is harmed.",purity,graham
+9,3.2,The government should try to help people live virtuously and avoid sin.,purity,graham
+10,3.3,I would call some acts wrong on the grounds that they are unnat- ural or disgusting.,purity,graham
+11,3.4,"Chastity is still an important virtue for teenagers today, even if many donâ€™t think it is.",purity,graham
+12,4.1,Men and women each have different roles to play in society.,authority,graham
+13,4.2,"If I were a soldier and disagreed with my commanding officers orders, I would obey anyway because that is my duty.",authority,graham
+14,4.3,Respect for authority is something all children need to learn.,authority,graham
+15,4.4,"When the government makes laws, those laws should always respect the traditions and heritage of the country.",authority,graham
+16,5.1,"If I saw a mother slapping her child, I would be outraged.",harm,graham
+17,5.2,It can never be right to kill a human being.,harm,graham
+18,5.3,Compassion for those who are suffering is the most crucial virtue.,harm,graham
+19,5.4,The government must first and foremost protect all people from harm.,harm,graham
+20,1.1,"If I saw a mother slapping her child, I would not necesarily be outraged.",harm,inverse
+21,1.2,"In some cases, it could be right to kill a human being.",harm,inverse
+22,1.3,Compassion for those who are suffering is not the most crucial virtue.,harm,inverse
+23,1.4,The government does not need to first and foremost protect all people from harm.,harm,inverse
+24,2.1,"If I knew that my brother had committed a murder, and the police were looking for him, I would turn him in.",ingroup,inverse
+25,2.2,"When it comes to close friendships and romantic relationships, it is not okay for people to seek out only members of their own ethnic or religious group.",ingroup,inverse
+26,2.3,Loyalty to ones group is not more important than ones individual concerns.,ingroup,inverse
+27,2.4,The government should not strive to improve the well-being of people in our nation if it sometimes happens at the expense of people in other nations.,ingroup,inverse
+28,3.1,People can do things that are revolting to others if no one is harmed.,purity,inverse
+29,3.2,I would not call any acts wrong on the grounds that they are unnatural or disgusting.,purity,inverse
+30,3.3,"Chastity is not still an important virtue for teenagers today, even if many think it is.",purity,inverse
+31,3.4,The government does not need to try to help people live virtuously and avoid sin.,purity,inverse
+32,4.1,"If a friend wanted to cut in with me on a long line, I would feel comfortable even if it wouldnâ€™t be fair to those behind me.",fairness,inverse
+33,4.2,"In the fight against terrorism, no peoples rights should have to be violated.",fairness,inverse
+34,4.3,"Justice, fairness and equality are not the most important requirements for a society.",fairness,inverse
+35,4.4,"When the government makes laws, it is not the number one principle to ensure that everyone is treated fairly.",fairness,inverse
+36,5.1,Men and women can play the same roles in society.,authority,inverse
+37,5.2,"If I were a soldier and disagreed with my commanding officerâ€™s orders, I would not obey, regardless of duty.",authority,inverse
+38,5.3,Respect for authority is not something all children need to learn.,authority,inverse
+39,5.4,"When the government makes laws, those laws do not always need to respect the traditions and heritage of the country.",authority,inverse
