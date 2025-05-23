@@ -4,6 +4,12 @@ highlights:
 - "*persona*" indicates the model was prompted with the initial lib/conservative alignment and a particular persona as part of the prompt."*base*" refers to prompting the model with only liberal/conservative alignment. "*unaligned*" refers to giving no indication of alignment at all. sometimes *"persona"* may be left out of the filename on accident, but unaligned and base should always be indicated. 
 - *raw* data is the data directly spit out by the model/apifunction and can contain between 1-15 trials. *rare* data is the trials in the raw data combined to be all 15 trials in one csv file. *processed* data is the rare data but actually like, formatted and dtyped and with inverses optionally converted and stuff
 
+gpt-4o-mini (chat/completions) at temperatures 1.0 and 2.0
+deepseek-chat at temperatures 1.0 and 1.5
+claude-3-5-haiku-20241022 at temperatures 0.5 and 1.0 
+
+1.0 being the default for all
+
 # model choices
 what settings and stuff did you actually use for the models lorraine
 
